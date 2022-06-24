@@ -390,9 +390,7 @@ $ curl -X GET http://localhost:9090/users/me -H 'Authorization: Bearer <JWT_TOKE
 }
 ```
 
-# Sự đóng góp
+# Tham khảo
 
-- Báo cáo sự cố
-- Yêu cầu kéo mở với các cải tiến
-- Thông báo
-- Liên hệ trực tiếp với tôi tại <mauriurraco@gmail.com>
+
+- Github [https://github.com/murraco/spring-boot-jwt](https://github.com/murraco/spring-boot-jwt)
